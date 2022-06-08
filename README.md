@@ -1,17 +1,49 @@
-## README Components
+# Readme Components
 Compilation of different README components from all over the Github. You can use these components to make your Github profile stand out.
+
+# How to use
+Copy-paste the component into your markdown content, and change the ?username= value to your GitHub's username, that's it. Simple!
+
+Example - 
+
+Change the `?username=` value to your GitHub's username.
+
+```md
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkarda)](https://github.com/rahulkarda/readme-components)
+```
+
+# Components
 
 ## Profile views
 <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
 
+```md
+[![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+```
+
 ## Github Followers
 <img src="https://img.shields.io/github/followers/rahulkarda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+
+
+```md
+[![Github Followers](https://img.shields.io/github/followers/username?label=Followers&logo=GitHub&style=for-the-badge)
+```
 
 ## Twitter Followers
 <img src="https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="TWitter Followers"/>
 
+```md
+[![Twitter Followers](https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+```
+
 ## Icons
 ### Type 1
+Change the langname and logoname to generate icons of different languages.
+
+```md
+[![](https://img.shields.io/badge/Code-langname-informational?style=flat&logo=logoname&logoColor=white&color=brightgreen)]
+```
+
 - ### Languages:
 
   ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
@@ -23,7 +55,7 @@ Compilation of different README components from all over the Github. You can use
   ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=brightgreen)
-
+  
 - ### Frameworks:
 
   ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
@@ -56,6 +88,12 @@ Compilation of different README components from all over the Github. You can use
   ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
 
 ### Type 2
+Change the langname and logoname to generate icons of different languages.
+
+```md
+[![](https://img.shields.io/badge/langname?style=for-the-badge&logo=logoname&logoColor=F7DF1E)]
+```
+
 - ### Languages:
   
   <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
@@ -104,6 +142,9 @@ Compilation of different README components from all over the Github. You can use
   <br></br>
 
 ## Social Media Icons
+
+Change the msg and logoname to generate icons of different social media.
+
 ### Type 1
 <p>
 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=plastic&logo=realm&logo-color=white"/>
@@ -114,9 +155,13 @@ Compilation of different README components from all over the Github. You can use
 <img src="https://img.shields.io/static/v1?label=|&message=GMAIL&color=24555f&style=plastic&logo=gmail&logo-color=white"/>
 </p>
 
+```md
+[![Type 1](https://img.shields.io/static/v1?label=|&message=msg&color=ff&style=plastic&logo=logoname&logo-color=white)]
+```
+
 ### Type 2
 <p>
-<img height="30" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=for-the-badge&logo=realm&logo-color=white" />
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=for-the-badge&logo=realm&logo-color=white" />
 <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=for-the-badge&logo=linkedin&logo-color=white"/>
 <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=for-the-badge&logo=twitter&logo-color=white"/>
 <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=for-the-badge&logo=dev.to&logo-color=white"/>
@@ -124,27 +169,63 @@ Compilation of different README components from all over the Github. You can use
 <img src="https://img.shields.io/static/v1?label=|&message=GMAIL&color=24555f&style=for-the-badge&logo=gmail&logo-color=white"/>
 </p>
 
+```md
+[![Type 2](https://img.shields.io/static/v1?label=|&message=msg&color=ff&style=for-the-badge&logo=logoname&logo-color=white)]
+```
+
 ## Top Languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarda&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarda)](https://github.com/rahulkarda/readme-components)
+```
 
 ## Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkarda&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
 
+```md
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkarda)](https://github.com/anuraghazra/readme-components)
+```
+
 ## Github Stats Graph
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+
+```md
+[![Rahul's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)
+```
 
 ## Github Streak Stats
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarda&theme=dark" alt="Rahul's GitHub Streak Stats"/>
  
-## Github Contribution Graph
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=rahulkarda&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
+ ```md
+ [![Rahul's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulkarda&theme=dark)
+ ```
+ 
+## Github Activity Graph
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=rahulkarda&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="Rahul's GitHub Activity Graph"/>
+
+```md
+[![Rahul's Github Activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/rahulkarda/readme-components)
+```
 
 ## Github Repo Extra Pins
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=readme-components" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=youtube-bookmarker" />
+
+```md
+[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=youtube-bookmarker)](https://github.com/rahulkarda/readme-components)
+```
  
 ## Github Trophies
  <img src="https://github-profile-trophy.vercel.app/?username=rahulkarda&theme=onedark&column=3&margin-w=15&margin-h=15" />
  
+ ```md
+ [![Rahul's Github Trophies](https://github-profile-trophy.vercel.app/?username=rahulkarda&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/rahulkarda/readme-components)
+ ```
+ 
 ## Github Detailed Stats
 <img src="https://metrics.lecoq.io/rahulkarda?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>
+
+```md
+[![Rahul's Github Detailed Stats](https://metrics.lecoq.io/username?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true)](https://github.com/rahulkarda/readme-components)
+```
