@@ -134,7 +134,7 @@ Change the langname and logoname to generate icons of different languages.
   <code><img height="30" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
   <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-   <code><img height="30" src="https://img.shields.io/badge/Apache-005C84?style=for-the-badge&logo=apache&logoColor=white"></code>
+   <code><img height="30" src="https://img.shields.io/badge/Apache-ffca28?style=for-the-badge&logo=apache&logoColor=white"></code>
 
 - ### OS:
 
