@@ -61,6 +61,7 @@ Change the langname and logoname to generate icons of different languages.
   ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-AngularOS-informational?style=flat&logo=AngularOS&logoColor=white&color=brightgreen)
 
 - ### Backend
   ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
@@ -133,12 +134,14 @@ Change the langname and logoname to generate icons of different languages.
   <code><img height="30" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
   <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+   <code><img height="30" src="https://img.shields.io/badge/Apache-ffca28?style=for-the-badge&logo=apache&logoColor=white"></code>
 
 - ### OS:
 
 
   <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
+  <code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white"></code>  
   <br></br>
 
 ## Social Media Icons
