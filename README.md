@@ -61,7 +61,7 @@ Change the langname and logoname to generate icons of different languages.
   ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
-  ![](https://img.shields.io/badge/Code-AngularOS-informational?style=flat&logo=AngularOS&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=AngularJS&logoColor=white&color=brightgreen)
 
 - ### Backend
   ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
