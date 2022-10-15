@@ -141,6 +141,7 @@ Change the langname and logoname to generate icons of different languages.
 
   <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
+  <code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=Mac&logoColor=white"></code>  
   <br></br>
 
 ## Social Media Icons
