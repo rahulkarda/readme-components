@@ -81,6 +81,7 @@ Change the langname and logoname to generate icons of different languages.
 
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=brightgreen)
 
 - ### Tools
 
