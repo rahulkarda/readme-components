@@ -76,6 +76,8 @@ Change the langname and logoname to generate icons of different languages.
   ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=brightgreen)
+  
 
 - ### OS:
 
