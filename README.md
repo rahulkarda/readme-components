@@ -98,7 +98,7 @@ Change the langname and logoname to generate icons of different languages.
 [![](https://img.shields.io/badge/langname?style=for-the-badge&logo=logoname&logoColor=F7DF1E)]
 ```
 
-- ### Languages:
+- ### Programming Languages:
   
   <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
   <code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
@@ -147,7 +147,7 @@ Change the langname and logoname to generate icons of different languages.
   <code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white"></code>  
   <br></br>
 
-## Social Media Icons
+## Social Media Icons | favicons
 
 Change the msg and logoname to generate icons of different social media.
 
