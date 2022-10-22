@@ -55,6 +55,9 @@ Change the langname and logoname to generate icons of different languages.
   ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=brightgreen)
+  
   
 - ### Frameworks:
 
