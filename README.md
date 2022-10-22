@@ -111,6 +111,8 @@ Change the langname and logoname to generate icons of different languages.
   <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Swift-F48335?style=for-the-badge&logo=Swift&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/PHP-787CB4?style=for-the-badge&logo=PHP&logoColor=white"></code>
 
 - ### Frameworks:
 
