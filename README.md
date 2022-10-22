@@ -55,6 +55,9 @@ Change the langname and logoname to generate icons of different languages.
   ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=brightgreen)
+  
   
 - ### Frameworks:
 
@@ -111,6 +114,8 @@ Change the langname and logoname to generate icons of different languages.
   <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Swift-F48335?style=for-the-badge&logo=Swift&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/PHP-787CB4?style=for-the-badge&logo=PHP&logoColor=white"></code>
 
 - ### Frameworks:
 
@@ -125,6 +130,8 @@ Change the langname and logoname to generate icons of different languages.
   <code><img height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Laravel-FF2C20?style=for-the-badge&logo=Laravel&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=Django&logoColor=white"></code>
 
 - ### Backend:
 
