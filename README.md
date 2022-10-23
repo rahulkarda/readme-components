@@ -42,6 +42,8 @@ Change the `?username=` value to your GitHub's username.
 ## Reddit
 <img src="https://aleen42.github.io/badges/src/reddit.svg" alt="discord"/>
 
+## Facebook
+
 ## Icons
 ### Type 1
 Change the langname and logoname to generate icons of different languages.
